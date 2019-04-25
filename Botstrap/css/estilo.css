@@ -2,4 +2,9 @@
     position: relative;
     overflow: auto;
     height: 380px;
+    margin-left:0;
+}
+.conteiner{
+    margin-left: 5%;
+    margin-right: 5%;
 }
